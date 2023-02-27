@@ -1,4 +1,3 @@
-## Welcome to my GitHub Profile! 🙌
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm F.C. Akhi</h1>
 who is <b>obsessed</b> with <b>Data science</b> and always looking to find patterns of which are hidden in the data
