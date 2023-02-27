@@ -15,7 +15,7 @@ who is <b>obsessed</b> with <b>Data science</b> and always looking to find patte
 ✔ I'm a **Kaizen** person 😎<br>
 ✔ I’m currently Developing a youtube scrapper<br>
 ✔ I’m currently learning about **Data Science** & **Multi Objective Optimization** 🥰<br>
-✔ I regularly write articles on LinkedIn
+✔ I regularly write articles on LinkedIn<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
 ✔ Want to know how to reach me? [LinkedIn - @FCAkhi](https://www.linkedin.com/in/fcakhi/)<br>
 ✔ My hobby includes painting, dancing, playing guitar and travelling. Yes, lot's of things 🎸🚆🎨💃<br>
