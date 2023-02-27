@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm F.C. Akhi</h1>
-who is <b>obsessed</b> with <b>Data science</b> and always looking for patterns in the data
+who is <b>obsessed</b> with <b>Data science</b> and always searching for patterns...
 </div>
 
 <div align="center">
